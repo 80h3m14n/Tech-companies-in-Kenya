@@ -10,7 +10,7 @@ Kenya's tech ecosystem has rapidly evolved, positioning itself as a hub for inno
 
 The Kenyan startup landscape is not just thriving in quantity but also in quality, with many startups achieving international recognition and investment. Sectors like agri-tech, health-tech, and ed-tech are emerging alongside the established fintech sector1. The use of mobile money platforms like M-Pesa has revolutionized financial transactions in the country.
 
-
+**NOTE:** The list does not exhausted all Tech companies in Kenya & will be updated regularly.
 
 ---------------
 
@@ -113,6 +113,7 @@ The Kenyan startup landscape is not just thriving in quantity but also in qualit
 # Online courses & Certifications
 
 ## Education and Talent Development
+
 Kenya's focus on education and talent development has been crucial in building a skilled workforce to drive the tech ecosystem. Universities and colleges are increasingly offering courses in IT and related fields, aligning with industry needs1. Collaboration between academia and industry ensures a steady pipeline of skilled professionals.
 
 
@@ -131,7 +132,7 @@ Kenya's focus on education and talent development has been crucial in building a
 
 | Company's Portfolio                                                  |   Company Type              | Location/County     | 
 |----------------------------------------------------------------------|-----------------------------|---------------------|
-| [AfricaCodeWeek](https://africacodeweek.org/)                        |                             | Nairobi             |     
+| [Africa Code Week](https://africacodeweek.org/)                      |                             | Nairobi             |     
 | [Africa is Talking](https://community.africastalking.com/)           |   Startup                   | Nairobi             |      
 | [ANdela Nairobi](https://www.andela.com/)                            |                             | Nairobi             |
 | [Brimatech](https://www.brimmatech.co.ke/)                           |
@@ -158,7 +159,9 @@ Kenya's focus on education and talent development has been crucial in building a
 | [Space Ya Tech](https://www.spaceyatech.com/)                        | Open-source                |                     | 
 | [Synacor](https://www.synacor.co.ke/)                                |
 | [The Jitu ](https://thejitu.com/)                                    |                            |  Nyeri              | 
+| [Webdivine website design](https://webdivine.co.ke/)                 |
 | [Webmetro Website Designers](https://webmetro.co.ke/)                |                            |                     |
+
 
 
 
