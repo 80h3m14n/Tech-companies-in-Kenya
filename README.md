@@ -2,9 +2,12 @@ This repository aims to provide a valuable resource for anyone interested in exp
 
 
 ## Overview of Kenya's Tech Ecosystem
+
 Kenya's tech ecosystem has rapidly evolved, positioning itself as a hub for innovation in Africa. This growth is driven by a combination of entrepreneurial spirit, technological advancements, and supportive government policies. Nairobi, the capital city, is often dubbed as the "Silicon Savannah" due to its thriving startup scene.
 
+
 ## Key Sectors and Innovations
+
 The Kenyan startup landscape is not just thriving in quantity but also in quality, with many startups achieving international recognition and investment. Sectors like agri-tech, health-tech, and ed-tech are emerging alongside the established fintech sector1. The use of mobile money platforms like M-Pesa has revolutionized financial transactions in the country.
 
 
@@ -189,7 +192,6 @@ Kenya's focus on education and talent development has been crucial in building a
 
 # Government Initiatives Projects
 
-## Government Initiatives and Support
 The Kenyan government has played a significant role in fostering this tech growth. Initiatives like Konza Technopolis and support for ICT innovation hubs have provided a conducive environment for tech startups and entrepreneurs. Policies such as tax incentives for tech startups and investments in digital infrastructure have been pivotal in creating an environment where technology and innovation can flourish.
 
 The following is a list of Government initiated Tech projects in Kenya
@@ -210,7 +212,9 @@ The following is a list of Government initiated Tech projects in Kenya
 
 
 
----------------------------------
+----------
+
+
 
 # Bonus Takeaway
 
@@ -218,6 +222,7 @@ For thosse with technology-based skills,Youths, developers, project start-ups lo
 In reality, a product's value is moot if it's not being utilized by its target audience.
 
 ## 1. Leverage Statup & Investment Programs
+
 - [Ajira Digital](http://ajiradigital.go.ke/)
 - [Kenya Innovation Agency(KENIA)](https://kenia.go.ke/)
 - [Kenya Youth Employment and Opportunities Project (KYEOP)](https://kyeop.go.ke/)
@@ -225,6 +230,7 @@ In reality, a product's value is moot if it's not being utilized by its target a
 
 
 ## 2. Join Tech & Startup Communities
+
 - [iHub Nairobi](https://ihub.co.ke/)
 - [KICTANET](https://www.kictanet.or.ke/)
 - [Swahili Pot](https://www.swahilipothub.co.ke)
@@ -233,6 +239,7 @@ In reality, a product's value is moot if it's not being utilized by its target a
 
 
 ## 3. Participate in Pitch Competitions
+
 - [Africa's Bussiness Heros](https://www.africabusinessheroes.org/en/)
 - [MIT Solve Challenge](https://solve.mit.edu/challenges)
 - [Startinev](https://startinev.com/)
@@ -246,9 +253,10 @@ In reality, a product's value is moot if it's not being utilized by its target a
 
 
 ## 5. Build a strong Portfolio
+
 - [Github](https://github.com)
 - Personal website
-- [Tech Blogs i.e Medium](https://medium.com)
+- Write about Tech Blogs i.e [Medium](https://medium.com)
 
   
 
@@ -257,21 +265,25 @@ In reality, a product's value is moot if it's not being utilized by its target a
 
 
 ## Impact on Other Sectors
+
 The tech boom in Kenya has positively impacted other sectors, including finance, agriculture, and healthcare. Digital platforms are revolutionizing how Kenyans access services, from e-commerce and online banking to telemedicine and digital education.
 
 
 
-----------------------------------
+-------
 
 # Disclaimer 
+
 All of this repository content are based on our own personal resources and hereby provided as it is.ANYONE IS FREE TO RAISE CONCERNS IF THE REPO SEEMS BIASED. Here, you'll find a comprehensive list of technology companies based in Kenya. Kenya, often referred to as the "Silicon Savannah," is home to a vibrant tech ecosystem with numerous innovative companies driving growth and development in various sectors such as fintech, e-commerce, software development, and digital marketing.
 
 
-## Contributors
+## Contribution
 
 We welcome contributions from everyone! Check out the [Contributors](https://github.com/wekesaryan/List-Of-Tech-Companies-in-Kenya/graphs/contributors) to see who has helped build this repository.
 
----------------------------
+
+
+-------
 
 
 Thank you for visiting our repository! We hope you found this list of tech companies in Kenya informative and helpful. If you have any questions, concerns, or suggestions, please don't hesitate to reach out to us.
