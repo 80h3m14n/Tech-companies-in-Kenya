@@ -17,6 +17,7 @@ The Kenyan startup landscape is not just thriving in quantity but also in qualit
 | Company's Portfolio                                                               | Company Type       | Location/County |
 |-----------------------------------------------------------------------------------|--------------------|-----------------|
 | [Computer Revolution Tech Group](https://www.cragroup.co.ke/)                     |                    
+| [Everse technology africa](https://ke.linkedin.com/company/eversetechnology)      | AI startup         |
 | [Google Developer Groups](https://gdg.community.dev/gdg-nairobi/)                 | Multinational      | Nairobi         | 
 | [Kenya AI](https://kenya.ai/)                                                     |                    | Nairobi         | 
 
