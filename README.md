@@ -55,11 +55,13 @@ The Kenyan startup landscape is not just thriving in quantity but also in qualit
 | [Jammi Telecommunication](https://jtl.co.ke/)                        |
 | [KICTANet](https://www.kictanet.or.ke/)                              | Multi-stalkholder  | Nairobi         |
 | [Poa! Internet](https://poa.co.ke/)                                  | Private            | Nairobi
-| [Safaricom Bussiness](https://www.safaricom.co.ke/)                  |                    | Country Wide    |
+| [Safaricom Business](https://www.safaricom.co.ke/)                  |                    | Country Wide    |
 | [Surfnet Solutions](https://surfnetsolution.com/)                    |
 | [Telcom Kenya](https://telkom.co.ke/)                                |
 | [ZUKU Internet](https://zuku.co.ke/triple-play/)                     | 
 | [VHost Limited](https://vhost.bz/)                                   |
+| [Cuteprofits](https://www.cuteprofit.com/)                        |
+| [Centiped ISP billing system](https://www.centipidbilling.com/)   |
 
 
 # Cyber Security
