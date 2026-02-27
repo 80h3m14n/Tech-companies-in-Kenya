@@ -12,7 +12,8 @@ The Kenyan startup landscape is not just thriving in quantity but also in qualit
 
 **NOTE:** The list does not exhausted all Tech companies in Kenya & will be updated regularly.
 
----------------
+
+-------
 
 
 # Artificial Intelligence
@@ -175,13 +176,14 @@ Kenya's focus on education and talent development has been crucial in building a
 | [EldoHub](https://eldohub.co.ke/)                                                |                   | Eldoret          |
 | [Chandaria Business Innovation & Incubation Centre](https://www.ku.ac.ke/iiuil/) |                   | Nairobi          |
 | [CD4Lab](https://computerscience.uonbi.ac.ke/)                                   | Public            | Nairobi          |
-| [KICTANET](https://www.kictanet.or.ke/)                                          |
+| [KICTANET](https://www.kictanet.or.ke/)                                          | GOV               | Kenya            |
 | [iHub](https://ihub.co.ke/)                                                      |                   | Nairobi          |
 | [LakeHub](https://www.lakehub.co.ke/)                                            |                   | Kisumu           |
-| [Microsoft African Development Centre - Kenya](https://www.microsoft.com/madc)   |  Multinational    | Nairobi          |
+| [Microsoft African Development Centre - Kenya](https://www.microsoft.com/madc)   | Multinational     | Nairobi          |
 | [Mt Kenya Hub](https://mtkenyahub.com/ea/)                                       |                   | Nairobi & Nyeri  |
 | [Sote Hub](https://www.sotehub.com/)                                             |                   | Mombasa          | 
-| [SwahilipotHub](https://www.swahilipothub.co.ke)                                 |  Startup          |   Mombasa        |
+| [SwahilipotHub](https://www.swahilipothub.co.ke)                                 |  Startup          | Mombasa          |
+| [Whitebox Kenya](https://whitebox.go.ke/)                                        | GOV               | Kenya            |
 
 
 # Telecommunication services
@@ -191,7 +193,7 @@ Kenya's focus on education and talent development has been crucial in building a
 | [African Telecommunication Union](https://atuuat.africa/)                        |                   | Nairobi          |
 | [Safaricom Bussiness](https://www.safaricom.co.ke/)                              |                   | Country Wide     |
 | [Tespok](https://www.tespok.co.ke/)                                              | Non-Goverment Org | Nairobi          | 
-| [Telcom Kenya](https://telkom.co.ke/)                                            |
+| [Telcom Kenya](https://telkom.co.ke/)                                            |                   | Nairobi
 | [ZUKU Internet](https://zuku.co.ke/triple-play/)                                 |                   | Nairobi          |
 
 
@@ -221,9 +223,17 @@ The following is a list of Government initiated Tech projects in Kenya
 
 
 
-# Bonus Takeaway
+#  Startup accelerators & incubators
 
-For thosse with technology-based skills,Youths, developers, project start-ups looking for investors to fund their ideas or projects and turn them into world class working projects.
+These are programs that support early-stage companies with funding, mentorship, networks, or other resources and tuen ideas into world class working projects.
+
+
+- Seed Capital & Equity Deals
+- Mentorship and Expert Guidance
+- Education & Workshops
+- Investor Network
+- Community & Collaboration
+
 In reality, a product's value is moot if it's not being utilized by its target audience.
 
 ## 1. Leverage Statup & Investment Programs
@@ -239,6 +249,7 @@ In reality, a product's value is moot if it's not being utilized by its target a
 - [iHub Nairobi](https://ihub.co.ke/)
 - [KICTANET](https://www.kictanet.or.ke/)
 - [Swahili Pot](https://www.swahilipothub.co.ke)
+- [Whitebox Kenya](https://whitebox.go.ke/)
 
 [More info](#tech-hubs-and-startups)  
 
@@ -284,7 +295,7 @@ All of this repository content are based on our own personal resources and hereb
 
 ## Contribution
 
-We welcome contributions from everyone! Check out the [Contributors](https://github.com/wekesaryan/List-Of-Tech-Companies-in-Kenya/graphs/contributors) to see who has helped build this repository.
+We welcome contributions from everyone! Check out the [Contributors](https://github.com/80h3m14n/Tech-Companies-in-Kenya/graphs/contributors) to see who has helped build this repository.
 
 
 
