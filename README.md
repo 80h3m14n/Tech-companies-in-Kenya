@@ -8,7 +8,7 @@ Kenya's tech ecosystem has rapidly evolved, positioning itself as a hub for inno
 
 ## Key Sectors and Innovations
 
-The Kenyan startup landscape is not just thriving in quantity but also in quality, with many startups achieving international recognition and investment. Sectors like agri-tech, health-tech, and ed-tech are emerging alongside the established fintech sector1. The use of mobile money platforms like M-Pesa has revolutionized financial transactions in the country.
+The Kenyan startup landscape is not just thriving in quantity but also in quality, with many startups achieving international recognition and investment. Sectors like agri-tech, health-tech, and ed-tech are emerging alongside the established fintech sector. The use of mobile money platforms like M-Pesa has revolutionized financial transactions in the country.
 
 **NOTE:** The list does not exhausted all Tech companies in Kenya & will be updated regularly.
 
@@ -242,6 +242,8 @@ In reality, a product's value is moot if it's not being utilized by its target a
 - [Kenya Innovation Agency(KENIA)](https://kenia.go.ke/)
 - [Kenya Youth Employment and Opportunities Project (KYEOP)](https://kyeop.go.ke/)
 - [Nairobi Securities Exchange(NSE)](https://www.nse.co.ke)
+- [Kenya Industrial Research and Development Institute (KIRDI)](https://kirdi.go.ke/)
+- [Whitebox Kenya](https://whitebox.go.ke/)
 
 
 ## 2. Join Tech & Startup Communities
@@ -249,7 +251,6 @@ In reality, a product's value is moot if it's not being utilized by its target a
 - [iHub Nairobi](https://ihub.co.ke/)
 - [KICTANET](https://www.kictanet.or.ke/)
 - [Swahili Pot](https://www.swahilipothub.co.ke)
-- [Whitebox Kenya](https://whitebox.go.ke/)
 
 [More info](#tech-hubs-and-startups)  
 
@@ -277,7 +278,7 @@ In reality, a product's value is moot if it's not being utilized by its target a
   
 
 
-----------------------
+-----
 
 
 ## Impact on Other Sectors
@@ -286,12 +287,14 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 
 
--------
+---
 
-# Disclaimer 
+## Disclaimer 
 
-All of this repository content are based on our own personal resources and hereby provided as it is.ANYONE IS FREE TO RAISE CONCERNS IF THE REPO SEEMS BIASED. Here, you'll find a comprehensive list of technology companies based in Kenya. Kenya, often referred to as the "Silicon Savannah," is home to a vibrant tech ecosystem with numerous innovative companies driving growth and development in various sectors such as fintech, e-commerce, software development, and digital marketing.
+All of this repository content are based on our own personal resources and hereby provided as it is.I'm not a financial advisor or mentor. Here, you'll find a comprehensive list of technology companies based in Kenya. Kenya, often referred to as the "Silicon Savannah," is home to a vibrant tech ecosystem with numerous innovative companies driving growth and development in various sectors such as fintech, e-commerce, software development, and digital marketing.
 
+
+---
 
 ## Contribution
 
@@ -299,7 +302,7 @@ We welcome contributions from everyone! Check out the [Contributors](https://git
 
 
 
--------
+----
 
 
 Thank you for visiting our repository! We hope you found this list of tech companies in Kenya informative and helpful. If you have any questions, concerns, or suggestions, please don't hesitate to reach out to us.
