@@ -206,23 +206,21 @@ The Kenyan government has played a significant role in fostering this tech growt
 The following is a list of Government initiated Tech projects in Kenya
 
 
-|  Project                      |                                          Description                                                  |
---------------------------------|------------------------------------------------------------------------------------------------------ |
-| [Ministry of ICT Kenya](https://www.ict.go.ke/) | The Ministry has adopted the following policy priorities <br> Implementation  of  service charter <br> Capacity building in the ICT sector <br> Modernization of equipment <br> Mainstreaming the HIV/AIDS <br> health and safety activities in the Ministry <br> Facilitation of the  Development of knowledge based information society <br> Continuous review of the legal framework, Promotion of  regional and international corporation in ICT issues <br> Creation of employment through outsourcing of ICT services <br> Periodically review and update National ICT policy to facilitate development of the ICT sector. |
-|[Communication Authority of Kenya](https://www.ca.go.ke/) | The Communications Authority of Kenya (CA) is the regulatory authority for the communications sector in Kenya. <br> Established in 1999 by the Kenya Information and Communications Act, 1998, the Authority is responsible for facilitating the development of the information and communications sectors including;<br> broadcasting <br> cybersecurity <br> multimedia <br> telecommunications <br> electronic commerce <br> postal and courier services. |
+|  Project                      |                                          Description                                                  |  Location |
+--------------------------------|------------------------------------------------------------------------------------------------------ |-----------|
+| [Ministry of ICT Kenya](https://www.ict.go.ke/) | The Ministry of Information, Communications and The Digital Economy (MICDE) in Kenya is responsible for formulating policies and laws regulating the ICT, telecommunications, and media sectors. | Nairobi |
+|[Communication Authority of Kenya](https://www.ca.go.ke/) | The Communications Authority of Kenya (CA) is the regulatory authority for the communications sector in Kenya.  | Nairobi |
 | [Connected Africa Summit](https://connected.go.ke/) | The summit aims to underscore the relevance of the digital economy in driving economic growth and development. It will provide an opportunity for African leaders,investors and businesses to come together and harness the vast opportunities presented by the digital economy while addressing barriers and pressing issues affecting our economies. |
-| [Data Protection Commission](https://www.odpc.go.ke/) | The Data Protection Act came into effect in Kenya in November 2019. This ushered the country into a new data privacy dispensation that aimed at ensuring Kenyans were empowered with enforceable privacy rights over their personal information, while providing clear guidelines for private and public institutions to handle their users’ data with care. The Kenyan Data Protection Act (DPA) applies to data controllers and processors and provides data subjects with certain rights and safeguards. <br> The Office of the Data Protection Commissioner (ODPC) is hence the designated government agency that is key to ensuring appropriate handling of personal data in Kenya as enshrined in the Data Protection Act (DPA) of 2019.  |
-| [Kenya National Innovation Agency (KeNIA)](https://kenia.go.ke/) | KeNIA strengthens interrelationships between actors in order to promote innovation and enterprise development out of research and ideas. <br> From supporting the identification, recording and protection of innovative ideas to coordinating the establishment and implementation of appropriate policies, standards, processes, infrastructure, and partnerships to nurture the innovative ideas. The agency also works with partners to ensure appropriate prioritisation, relevant capacity development, innovation recognition and publication of the same. |
+| [Data Protection Commission](https://www.odpc.go.ke/) | The Data Protection Act came into effect in Kenya in November 2019. This ushered the country into a new data privacy dispensation that aimed at ensuring Kenyans were empowered with enforceable privacy rights over their personal information, while providing clear guidelines for private and public institutions to handle their users’ data with care.  |
+| [Kenya National Innovation Agency (KeNIA)](https://kenia.go.ke/) | KeNIA strengthens interrelationships between actors in order to promote innovation and enterprise development out of research and ideas. |
 | [National KE-CIRT/CC](https://ke-cirt.go.ke/) | The National KE-CIRT/CC is a multi-agency framework that coordinates response to cyber security matters at the national level in collaboration with relevant actors locally and internationally. <br>The National KE-CIRT/CC, which is domiciled at the Communications Authority of Kenya, comprises of technical staff from the Authority and various law enforcement agencies. |
-| [NC4](https://nc4.go.ke/) | The National Computer and Cybercrimes Coordination Committee (NC4) is mandated to coordinate Cybersecurity matters in Kenya. <br> Established by the Computer Misuse and cybercrimes Act No. 5 2018 (CMCA ) to coordinate national cybersecurity matters to enable timely and effective detection, prohibition, prevention , response, investigation and prosecution of computer misuse and cybercrimes; and facilitate international co-operation in dealing with computer and cybercrime matters in Kenya |
-| [KonzaTechnopolis](https://konza.go.ke/) |The Government of Kenya established the Konza Technopolis Development Authority (KoTDA) as a special purpose entity to facilitate the development of Konza. <br> The mission of KoTDA is to ensure that Konza grows into a sustainable, world-class technology hub and a major economic driver for the nation, with avibrant mix of businesses, workers, residents, and urba​​n amenities. <br> KoTDA is responsible for overseeing the development and management of Konza, and for establishing a strong value proposition for businesses to locate and expand in Konza. KoTDA’s Board of Directors was appointed in 2013. |        
-| [Smart Academy](https://www.smartacademy.go.ke/) |Smart Academy is the ICT Authority’s Excellent Training School specializing in ICT and ICT Leadership and Governance training. <br> Delivers ICT technologies training to Public sector, ICT Professional’s and Citizens in collaboration with ICT Technology partners and Academia. <br> Equip Citizens with Digital Skills and digital career with Industry-relevant tech skills. <br> Smart Academy is working to support Kenya’s vision to become a Smart Nation by 2030. <br> As the world’s economy is aggressively shifting towards technology-driven industries, individuals and citizens have difficulties keeping up with speed in ICT skills requirement, and this is where Smart Academy comes in to collaborate with Tech partners to offer the right skills set for Citizens to adopt with the dynamic Digital Ecosystem. |
+| [NC4](https://nc4.go.ke/) | The National Computer and Cybercrimes Coordination Committee (NC4) is mandated to coordinate Cybersecurity matters in Kenya. |
+| [KonzaTechnopolis](https://konza.go.ke/) | The Government of Kenya established the Konza Technopolis Development Authority (KoTDA) as a special purpose entity to facilitate the development of Konza. (a sustainable, world-class technology hub) |        
+| [Smart Academy](https://www.smartacademy.go.ke/) |Smart Academy is the ICT Authority’s Excellent Training School specializing in ICT and ICT Leadership and Governance training. |
 
 
 
-
-----------
-
+&nbsp;
 
 
 #  Startup accelerators & incubators
@@ -251,6 +249,7 @@ In reality, a product's value is moot if it's not being utilized by its target a
 ## 2. Join tech & Startup communities
 
 **Startups**
+
 - [iHub Nairobi](https://ihub.co.ke/)
 - [KICTANET](https://www.kictanet.or.ke/)
 - [Swahili Pot](https://www.swahilipothub.co.ke)
@@ -260,6 +259,9 @@ In reality, a product's value is moot if it's not being utilized by its target a
 
 
 **Communities**
+
+For announcements, job shares, local meetups, discussions and more
+
 - [Nairobi AI](https://www.nairobiai.org/)
 - [Google Developer Groups](https://gdg.community.dev/gdg-nairobi/)
 - [Angular Kenya](https://ng-kenya.com/)
@@ -284,7 +286,8 @@ In reality, a product's value is moot if it's not being utilized by its target a
 - [Techstars Startup Weekend](https://www.techstars.com/)
 
 
-## 4. Online Platofrms
+## 4. Social networking platforms
+
 - [LinkedIn](https;//linkein.com)
 - [Indeed](https://www.indeed.com)
 - [VC4Africa](https://vc4a.com/)
@@ -292,14 +295,21 @@ In reality, a product's value is moot if it's not being utilized by its target a
 
 ## 5. Build a strong Portfolio
 
+**Open source contributions**
+
 - [Github](https://github.com)
-- Personal website
-- Write about Tech Blogs i.e [Medium](https://medium.com)
+- [Leetcode](https://leetcode.com/)
+
+
+**Write about Tech Blogs**
+  
+- [Medium](https://medium.com)
+- [Hashnode](https://hashnode.com/)
 
   
 
 
------
+&nbsp;
 
 
 ## Impact on Other Sectors
@@ -308,7 +318,8 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 
 
----
+&nbsp;
+
 
 ## Disclaimer 
 
@@ -323,7 +334,7 @@ We welcome contributions from everyone! Check out the [Contributors](https://git
 
 
 
-----
+&nbsp;
 
 
 Thank you for visiting our repository! We hope you found this list of tech companies in Kenya informative and helpful. If you have any questions, concerns, or suggestions, please don't hesitate to reach out to us.
