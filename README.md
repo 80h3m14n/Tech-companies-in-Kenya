@@ -264,6 +264,7 @@ For announcements, job shares, local meetups, discussions and more
 
 - [Nairobi AI](https://www.nairobiai.org/)
 - [Google Developer Groups](https://gdg.community.dev/gdg-nairobi/)
+- [African Ruby Community](https://rubycommunity.africa/)
 - [Angular Kenya](https://ng-kenya.com/)
 - [Thinka Innnovators Network](https://think.ke/)
 - [Web3 Developer Clubs](https://web3clubs.xyz/)
