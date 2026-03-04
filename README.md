@@ -303,7 +303,8 @@ For announcements, job shares, local meetups, discussions and more
 
 
 **Write about Tech Blogs**
-  
+
+- [Dev.to](https://dev.to/)
 - [Medium](https://medium.com)
 - [Hashnode](https://hashnode.com/)
 
