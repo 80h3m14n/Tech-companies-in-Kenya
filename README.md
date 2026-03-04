@@ -1,12 +1,12 @@
 This repository aims to provide a valuable resource for anyone interested in exploring the tech landscape in Kenya, whether for research, internship, business opportunities, or networking. We hope you find this list helpful and informative!
 
 
-## Overview of Kenya's Tech Ecosystem
+## Overview of Kenya's tech ecosystem
 
 Kenya's tech ecosystem has rapidly evolved, positioning itself as a hub for innovation in Africa. This growth is driven by a combination of entrepreneurial spirit, technological advancements, and supportive government policies. Nairobi, the capital city, is often dubbed as the "Silicon Savannah" due to its thriving startup scene.
 
 
-## Key Sectors and Innovations
+## Key sectors and innovations
 
 The Kenyan startup landscape is not just thriving in quantity but also in quality, with many startups achieving international recognition and investment. Sectors like agri-tech, health-tech, and ed-tech are emerging alongside the established fintech sector. The use of mobile money platforms like M-Pesa has revolutionized financial transactions in the country.
 
@@ -16,7 +16,7 @@ The Kenyan startup landscape is not just thriving in quantity but also in qualit
 -------
 
 
-# Artificial Intelligence
+## Artificial Intelligence
 
 | Company's Portfolio                                                               | Company Type       | Location/County |
 |-----------------------------------------------------------------------------------|--------------------|-----------------|
@@ -26,7 +26,7 @@ The Kenyan startup landscape is not just thriving in quantity but also in qualit
 | [Kenya AI](https://kenya.ai/)                                                     |                    | Nairobi         | 
 
 
-# Blockchain Technology
+## Blockchain Technology
 
 | Company's Portfolio                                                   | Comapany Type       |Location/County      |
 |-----------------------------------------------------------------------|---------------------|---------------------|
@@ -37,7 +37,7 @@ The Kenyan startup landscape is not just thriving in quantity but also in qualit
 
 
 
-# Cloud Computing
+## Cloud Computing
 
 | Company's Portfolio                                                  | Company Type         | Location/County  |
 |----------------------------------------------------------------------|----------------------|------------------|
@@ -51,7 +51,7 @@ The Kenyan startup landscape is not just thriving in quantity but also in qualit
 
 
 
-# Computer Networking
+## Computer Networking
 
 | Company's Portfolio                                                  |  Company Type      |Location/County  |
 |----------------------------------------------------------------------|--------------------|-----------------|
@@ -67,7 +67,7 @@ The Kenyan startup landscape is not just thriving in quantity but also in qualit
 | [Centiped ISP billing system](https://www.centipidbilling.com/)   |
 
 
-# Cyber Security
+## Cyber Security
 
 | Company's Portfolio                                                            | Company Type                | Location/County   |
 |--------------------------------------------------------------------------------|-----------------------------|-------------------|
@@ -87,7 +87,7 @@ The Kenyan startup landscape is not just thriving in quantity but also in qualit
 
 
 
-# Graphic Designs
+## Graphic Designs
 
 | Company's Portfolio                                           |   Company Type     | Location/County  |
 |---------------------------------------------------------------|--------------------|------------------|
@@ -133,7 +133,7 @@ Kenya's focus on education and talent development has been crucial in building a
 | [Zindua School](https://zinduaschool.com)                         |                    | Nairobi          |
 
 
-# Software Development
+## Software Development
 
 | Company's Portfolio                                                  |   Company Type              | Location/County     | 
 |----------------------------------------------------------------------|-----------------------------|---------------------|
@@ -171,7 +171,7 @@ Kenya's focus on education and talent development has been crucial in building a
 
 
 
-# Tech Hubs and startups
+## Tech Hubs and startups
 
 | Company's Portfolio                                                              |  Company Type     | Location/County  |
 |----------------------------------------------------------------------------------|-------------------|------------------|
@@ -188,7 +188,7 @@ Kenya's focus on education and talent development has been crucial in building a
 | [Whitebox Kenya](https://whitebox.go.ke/)                                        | GOV               | Kenya            |
 
 
-# Telecommunication services
+## Telecommunication services
 
 | Company's Portfolio                                                              |  Company Type     | Location/County  |
 |----------------------------------------------------------------------------------|-------------------|------------------|
@@ -199,7 +199,7 @@ Kenya's focus on education and talent development has been crucial in building a
 | [ZUKU Internet](https://zuku.co.ke/triple-play/)                                 |                   | Nairobi          |
 
 
-# Government Initiatives Projects
+## Government Initiatives Projects
 
 The Kenyan government has played a significant role in fostering this tech growth. Initiatives like Konza Technopolis and support for ICT innovation hubs have provided a conducive environment for tech startups and entrepreneurs. Policies such as tax incentives for tech startups and investments in digital infrastructure have been pivotal in creating an environment where technology and innovation can flourish.
 
@@ -238,7 +238,7 @@ These are programs that support early-stage companies with funding, mentorship, 
 
 In reality, a product's value is moot if it's not being utilized by its target audience.
 
-## 1. Leverage Statup & Investment Programs
+## 1. Leverage Statup & Investment programs
 
 - [Ajira Digital](http://ajiradigital.go.ke/)
 - [Kenya Innovation Agency(KENIA)](https://kenia.go.ke/)
@@ -248,11 +248,17 @@ In reality, a product's value is moot if it's not being utilized by its target a
 - [Whitebox Kenya](https://whitebox.go.ke/)
 
 
-## 2. Join Tech & Startup Communities
+## 2. Join tech & Startup communities
 
 - [iHub Nairobi](https://ihub.co.ke/)
 - [KICTANET](https://www.kictanet.or.ke/)
 - [Swahili Pot](https://www.swahilipothub.co.ke)
+- [Tech Group Kenya - WhatsApp community](https://whatsapp.com/channel/0029VaRwYII5kg736rZHZj3m)
+- [SpaceYaTech - WhatsApp community](https://whatsapp.com/channel/0029VaGvixqId7nOceC9TB2r)
+- [NairobiDevOps - WhatsApp community](https://whatsapp.com/channel/0029VbB0nYp4tRrwhzvySL1S)
+- [Kenya Design Konversations - WhatsApp community](https://whatsapp.com/channel/0029VaKMh4mGJP8E2pvqC312)
+- [KICTAnet - WhatsApp community](https://whatsapp.com/channel/0029VaQsX4w6mYPIctLsGh1K)
+
 
 [More info](#tech-hubs-and-startups)  
 
