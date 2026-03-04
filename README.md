@@ -250,17 +250,30 @@ In reality, a product's value is moot if it's not being utilized by its target a
 
 ## 2. Join tech & Startup communities
 
+**Startups**
 - [iHub Nairobi](https://ihub.co.ke/)
 - [KICTANET](https://www.kictanet.or.ke/)
 - [Swahili Pot](https://www.swahilipothub.co.ke)
+
+
+[More info](#tech-hubs-and-startups)  
+
+
+**Communities**
+- [Nairobi AI](https://www.nairobiai.org/)
+- [Google Developer Groups](https://gdg.community.dev/gdg-nairobi/)
+- [Angular Kenya](https://ng-kenya.com/)
+- [Thinka Innnovators Network](https://think.ke/)
+- [Web3 Developer Clubs](https://web3clubs.xyz/)
 - [Tech Group Kenya - WhatsApp community](https://whatsapp.com/channel/0029VaRwYII5kg736rZHZj3m)
+- [Tech Kenya - WhatsApp community](https://whatsapp.com/channel/0029VapqMgLCxoArynmW0O3u)
 - [SpaceYaTech - WhatsApp community](https://whatsapp.com/channel/0029VaGvixqId7nOceC9TB2r)
 - [NairobiDevOps - WhatsApp community](https://whatsapp.com/channel/0029VbB0nYp4tRrwhzvySL1S)
 - [Kenya Design Konversations - WhatsApp community](https://whatsapp.com/channel/0029VaKMh4mGJP8E2pvqC312)
 - [KICTAnet - WhatsApp community](https://whatsapp.com/channel/0029VaQsX4w6mYPIctLsGh1K)
 
 
-[More info](#tech-hubs-and-startups)  
+
 
 
 ## 3. Participate in Pitch Competitions
