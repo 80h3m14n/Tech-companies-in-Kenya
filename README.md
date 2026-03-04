@@ -41,8 +41,10 @@ The Kenyan startup landscape is not just thriving in quantity but also in qualit
 
 | Company's Portfolio                                                  | Company Type         | Location/County  |
 |----------------------------------------------------------------------|----------------------|------------------|
-| [AWS User Group Kenya](https://awsusergroupkenya.co.ke/)             |  Community=led       | Nairobi          |
+| [AWS User Group Kenya](https://awsusergroupkenya.co.ke/)             |  Community-led       | Nairobi          |
+| [Angani](https://angani.africa/)                                     |                      | Nairobi   |
 | [Cloud Backup](https://cloudbackup.co.ke/)                           |                      | Nairobi          |
+| [iXAfica Datacenter](https://ixafrica.co.ke/)                        |                      | Nairobi    |
 | [ManageIT Africa](https://manageitafrica.com/)                       |
 | [Safaricom Bussiness](https://www.safaricom.co.ke/)                  |   Private            |   Nairobi        |
 
