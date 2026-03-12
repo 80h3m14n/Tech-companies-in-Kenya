@@ -69,18 +69,21 @@ The Kenyan startup landscape is not just thriving in quantity but also in qualit
 
 ## Cyber Security
 
-| Company's Portfolio                                                            | Company Type                | Location/County   |
-|--------------------------------------------------------------------------------|-----------------------------|-------------------|
-| [AfricaHackOn](https://africahackon.com/)                                      | Multinational               |  Nairobi          |
-| [Besides Nairobi](https://bsidesnairobi.ke/)                                   | Non-profit, community-driven|                   |
-| [CIO Africa](https://cioafrica.co/)                                            | Multinational               | Nairobi           |
-| [Crystal Tech](https://crystaltech.co.ke/)                                     |                             | Nairobi           |
-| [CTF Room](https://www.ctfroom.com/)                                           |                             | Nairobi           |
-| [CyberGuard Africa](https://cyberguardafrica.com/)                             |  Private                    | Nairobi           |
-| [East Africa Data Handlers](https://eadatahandlers.co.ke/)                     | Multinational               |
-| [Frepers PTaaS Cyber security](https://frepers.co.ke/)                         |
-| [Kenya Cyber Security and Forensics Association](https://www.kcsfa.co.ke/)     |                             | Nairobi          |
+| Company's Portfolio                                                            | Company Type                   | Location/County     |
+|--------------------------------------------------------------------------------|-------------------------------|----------------------|
+| [AfricaHackOn](https://africahackon.com/)                                      | Multinational                 |  Nairobi            |
+| [Besides Nairobi](https://bsidesnairobi.ke/)                                   | Non-profit, community-driven  |                     |
+| [Certeon Technology](https://certeon.technology/)                              |                               | Nairobi - Westlands |
+| [CIO Africa](https://cioafrica.co/)                                            | Multinational                 | Nairobi           |
+| [Crystal Tech](https://crystaltech.co.ke/)                                     |                               | Nairobi           |
+| [CTF Room Africa](https://www.ctfroom.com/)                                           |                               | Nairobi           |
+| [CyberGuard Africa](https://cyberguardafrica.com/)                             | Private                       | Nairobi           |
+| [East Africa Data Handlers](https://eadatahandlers.co.ke/)                     | Multinational                 |             |
+| [Fanan Limited ](https://fanansolutions.com/)                                  | Multinational                 | Nairobi
+| [Frepers PTaaS Cyber security](https://frepers.co.ke/)                         |                       |                    |
 | [HackerSploit](https://hackersploit.org/)                                      |                             | Nairobi          |
+| [Kenya Cyber Security and Forensics Association](https://www.kcsfa.co.ke/)     |                             | Nairobi          |
+| [MacroSec](https://macrosec.tech/)                                             |                             | Nairobi - Runda  |
 | [Serianu](https://www.serianu.com/)                                            | Multinational               | Nairobi          |
 | [wHTa Networks](https://whtanetworks.com/)                                     |
 
@@ -150,8 +153,8 @@ Kenya's focus on education and talent development has been crucial in building a
 | [Graph Tech Mobile Applications Devs](https://graph.co.ke/)          |
 | [iDevelopers tech](https://idevelopertechnologies.co.ke/)            |
 | [Kenyawebsite](https://kenyawebsite.com/)                            |
-| [Kenic TLD](https://kenic.or.ke/)                                    | public-private partnership | Nairobi             |
-| [Microsoft Kenya](https://www.microsoft.com/en-us/contact_en-ke.aspx)|  Multinational             | Nairobi             |
+| [Kenic TLD](https://kenic.or.ke/)                                    | public-private partnership | Nairobi              |
+| [Microsoft Kenya](https://www.microsoft.com/en-us/contact_en-ke.aspx)|  Multinational             | Nairobi - Westlands  |
 | [Mentorlst](https://mentorlst.com/dashboard)                         |
 | [Nairobi DevOps Org](https://nairobidevops.org/)                     |                            | Nairobi             |
 | [PaystrAfrica](https://paystarafrica.com/)                           |
