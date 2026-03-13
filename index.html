@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kenya Tech Directory</title>
+    <meta name="description"
+        content="Explore Kenya's tech ecosystem through a searchable, filterable directory with company cards and an interactive map." />
+    <link rel="preconnect" href="https://unpkg.com" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body>
+    <div class="page-shell">
+        <header class="hero">
+            <div class="hero__content">
+                <p class="eyebrow">Kenya Tech Ecosystem</p>
+                <h1>Search companies, communities, courses, and innovation hubs.</h1>
+                <p class="hero__summary">
+                    This responsive directory converts the repository data into interactive company cards,
+                    live filters, and a map view powered directly from the markdown source.
+                </p>
+                <div class="hero__meta">
+                    <span class="pill pill--accent">Responsive</span>
+                    <span class="pill pill--accent">README-powered</span>
+                    <span class="pill pill--accent">GitHub Pages friendly</span>
+                </div>
+            </div>
+            <div class="hero__stats" id="stats">
+                <article class="stat-card">
+                    <span class="stat-card__label">Profiles</span>
+                    <strong class="stat-card__value" data-stat="total">0</strong>
+                </article>
+                <article class="stat-card">
+                    <span class="stat-card__label">Visible</span>
+                    <strong class="stat-card__value" data-stat="visible">0</strong>
+                </article>
+                <article class="stat-card">
+                    <span class="stat-card__label">Sectors</span>
+                    <strong class="stat-card__value" data-stat="categories">0</strong>
+                </article>
+                <article class="stat-card">
+                    <span class="stat-card__label">Mapped</span>
+                    <strong class="stat-card__value" data-stat="mapped">0</strong>
+                </article>
+            </div>
+        </header>
+
+        <main class="layout">
+            <section class="panel panel--filters" aria-label="Directory filters">
+                <div class="section-heading">
+                    <div>
+                        <p class="section-heading__eyebrow">Directory controls</p>
+                        <h2>Find the right profile fast</h2>
+                    </div>
+                    <button id="resetFilters" class="button button--ghost" type="button">Reset</button>
+                </div>
+
+                <form class="filters" id="filtersForm">
+                    <label class="field field--search">
+                        <span>Search</span>
+                        <input id="searchInput" name="search" type="search"
+                            placeholder="Search by company, sector, type, or location" autocomplete="off" />
+                    </label>
+
+                    <label class="field">
+                        <span>Sector</span>
+                        <select id="categoryFilter" name="category">
+                            <option value="">All sectors</option>
+                        </select>
+                    </label>
+
+                    <label class="field">
+                        <span>Type</span>
+                        <select id="typeFilter" name="type">
+                            <option value="">All types</option>
+                        </select>
+                    </label>
+
+                    <label class="field">
+                        <span>Location</span>
+                        <select id="locationFilter" name="location">
+                            <option value="">All locations</option>
+                        </select>
+                    </label>
+                </form>
+
+                <div class="status-bar">
+                    <p id="dataStatus" class="status-bar__message">Loading profiles from the repository markdown…</p>
+                    <a class="button button--link" href="./README.md" target="_blank" rel="noreferrer">Open source
+                        markdown</a>
+                </div>
+            </section>
+
+            <section class="content-grid">
+                <section class="panel panel--list" aria-label="Company cards">
+                    <div class="section-heading">
+                        <div>
+                            <p class="section-heading__eyebrow">Profile cards</p>
+                            <h2 id="resultsHeading">All profiles</h2>
+                        </div>
+                    </div>
+                    <div id="activeFilters" class="active-filters" aria-live="polite"></div>
+                    <div id="cardsContainer" class="cards-grid" aria-live="polite"></div>
+                </section>
+
+                <aside class="panel panel--map" aria-label="Interactive map">
+                    <div class="section-heading">
+                        <div>
+                            <p class="section-heading__eyebrow">Interactive map</p>
+                            <h2>Location overview</h2>
+                        </div>
+                    </div>
+                    <div id="map" class="map" role="application" aria-label="Map of Kenyan tech profiles"></div>
+                    <p class="map-caption">
+                        Markers use the best location match found in the markdown data. Entries without a known location
+                        stay searchable in the card list.
+                    </p>
+                </aside>
+            </section>
+        </main>
+    </div>
+
+    <template id="cardTemplate">
+        <article class="profile-card">
+            <div class="profile-card__header">
+                <div>
+                    <h3 class="profile-card__title"></h3>
+                    <p class="profile-card__url"></p>
+                </div>
+                <a class="button button--small" target="_blank" rel="noreferrer">Visit</a>
+            </div>
+            <p class="profile-card__description"></p>
+            <dl class="profile-card__meta"></dl>
+            <div class="profile-card__chips"></div>
+        </article>
+    </template>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="./script.js"></script>
+</body>
+
+</html>
