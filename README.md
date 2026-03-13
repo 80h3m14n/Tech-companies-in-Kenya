@@ -73,19 +73,20 @@ The Kenyan startup landscape is not just thriving in quantity but also in qualit
 |--------------------------------------------------------------------------------|-------------------------------|----------------------|
 | [AfricaHackOn](https://africahackon.com/)                                      | Multinational                 |  Nairobi            |
 | [Besides Nairobi](https://bsidesnairobi.ke/)                                   | Non-profit, community-driven  |                     |
-| [Certeon Technology](https://certeon.technology/)                              |                               | Nairobi - Westlands |
+| [Certeon Technology](https://certeon.technology/)                              |                               | Westlands, Nairobi  |
 | [CIO Africa](https://cioafrica.co/)                                            | Multinational                 | Nairobi           |
 | [Crystal Tech](https://crystaltech.co.ke/)                                     |                               | Nairobi           |
-| [CTF Room Africa](https://www.ctfroom.com/)                                           |                               | Nairobi           |
+| [CTF Room Africa](https://www.ctfroom.com/)                                           |                        | Nairobi           |
 | [CyberGuard Africa](https://cyberguardafrica.com/)                             | Private                       | Nairobi           |
 | [East Africa Data Handlers](https://eadatahandlers.co.ke/)                     | Multinational                 |             |
 | [Fanan Limited ](https://fanansolutions.com/)                                  | Multinational                 | Nairobi
-| [Frepers PTaaS Cyber security](https://frepers.co.ke/)                         |                       |                    |
-| [HackerSploit](https://hackersploit.org/)                                      |                             | Nairobi          |
-| [Kenya Cyber Security and Forensics Association](https://www.kcsfa.co.ke/)     |                             | Nairobi          |
-| [MacroSec](https://macrosec.tech/)                                             |                             | Nairobi - Runda  |
-| [Serianu](https://www.serianu.com/)                                            | Multinational               | Nairobi          |
-| [wHTa Networks](https://whtanetworks.com/)                                     |
+| [Frepers PTaaS Cyber security](https://frepers.co.ke/)                         |                               |                    |
+| [HackerSploit](https://hackersploit.org/)                                      |                               | Nairobi            |
+| [Kenya Cyber Security and Forensics Association](https://www.kcsfa.co.ke/)     |                               | Rng Plaza, Nairobi |
+| [MacroSec](https://macrosec.tech/)                                             |                               | Runda, Nairobi     |
+| [Serianu](https://www.serianu.com/)                                            | Multinational                 | Nairobi          |
+| [South-End Tech  Limited])https://southendtech.co.ke/)                         |                               | Nairobi          |
+| [wHTa Networks](https://whtanetworks.com/)                                     |                               |
 
 
 
@@ -96,7 +97,7 @@ The Kenyan startup landscape is not just thriving in quantity but also in qualit
 |---------------------------------------------------------------|--------------------|------------------|
 | [Creative Kigen](https://creativekigen.com/)                  |                    |                  |
 | [Crystal Tech](https://crystaltech.co.ke/)                    |                    | Nairobi          |
-| [brait Consulting](https://braitconsulting.com/)              |
+| [brait Consulting](https://braitconsulting.com/)              |                    |
 | [Brandboulevardstudios](https://brandboulevardstudios.com/)   |  Startup           |                  |
 | [Digicreative](https://digicreative.co.ke/)                   |                    |                  |
 | [Niko creative Kenya](https://www.nikocreative.co.ke/)        |                    |
@@ -138,37 +139,38 @@ Kenya's focus on education and talent development has been crucial in building a
 
 ## Software Development
 
-| Company's Portfolio                                                  |   Company Type              | Location/County     | 
-|----------------------------------------------------------------------|-----------------------------|---------------------|
-| [Africa Code Week](https://africacodeweek.org/)                      |                             | Nairobi             |     
-| [Africa is Talking](https://community.africastalking.com/)           |   Startup                   | Nairobi             |      
-| [ANdela Nairobi](https://www.andela.com/)                            |                             | Nairobi             |
-| [Brimatech](https://www.brimmatech.co.ke/)                           |
-| [Crystal Tech](https://crystaltech.co.ke/)                           |                             | Nairobi             | 
-| [Creative Kigen](https://creativekigen.com/)                         |                             |                     |
-| [DevOps Summit Africa](https://devopssummit.africa/)                 |                             | Nairobi             |
-| [DevsyTech](https://devsytech.com/)                                  |  Startup                    | Nyeri               |                     
-| [Fluid Tech Global](https://fluidtechglobal.com/)                    |
-| [Google Developer Groups](https://gdg.community.dev/gdg-nairobi/)    | Multinational               | Nairobi             | 
-| [Graph Tech Mobile Applications Devs](https://graph.co.ke/)          |
-| [iDevelopers tech](https://idevelopertechnologies.co.ke/)            |
-| [Kenyawebsite](https://kenyawebsite.com/)                            |
-| [Kenic TLD](https://kenic.or.ke/)                                    | public-private partnership | Nairobi              |
-| [Microsoft Kenya](https://www.microsoft.com/en-us/contact_en-ke.aspx)|  Multinational             | Nairobi - Westlands  |
-| [Mentorlst](https://mentorlst.com/dashboard)                         |
-| [Nairobi DevOps Org](https://nairobidevops.org/)                     |                            | Nairobi             |
-| [PaystrAfrica](https://paystarafrica.com/)                           |
-| [Power Learn Project](https://powerlearnprojectafrica.org/)          |  Multinational             | Nairobi             |
-| [Techvannah](https://techvannah.com/)                                |
-| [Tech2Give](https://teach2give.com/#)                                |                            |  Nyeri              |
-| [SoftwaresKe](https://www.softwareske.com/)                          |
-| [Sawasawa Solutions](https://sawasawa.com/)                          |                            |
-| [Smartcode Technologies](https://www.smartcode.co.ke/)               |
-| [Space Ya Tech](https://www.spaceyatech.com/)                        | Open-source                |                     | 
-| [Synacor](https://www.synacor.co.ke/)                                |
-| [The Jitu ](https://thejitu.com/)                                    |                            |  Nyeri              | 
-| [Webdivine website design](https://webdivine.co.ke/)                 |
-| [Webmetro Website Designers](https://webmetro.co.ke/)                |                            |                     |
+| Company's Portfolio                                                  |   Company Type                | Location/County       | 
+|----------------------------------------------------------------------|-------------------------------|-----------------------|
+| [Africa Code Week](https://africacodeweek.org/)                      |                               | Nairobi               |     
+| [Africa is Talking](https://community.africastalking.com/)           |   Startup                     | Nairobi               |      
+| [ANdela Nairobi](https://www.andela.com/)                            |                               | Nairobi               |
+| [Brimatech](https://www.brimmatech.co.ke/)                           |                               |                       |
+| [Crystal Tech](https://crystaltech.co.ke/)                           |                               | Nairobi               | 
+| [Creative Kigen](https://creativekigen.com/)                         |                               |                       |
+| [DevOps Summit Africa](https://devopssummit.africa/)                 |                               | Nairobi               |
+| [DevsyTech](https://devsytech.com/)                                  |  Startup                      | Nyeri                 |                     
+| [Fluid Tech Global](https://fluidtechglobal.com/)                    |                               |                       |
+| [Google Developer Groups](https://gdg.community.dev/gdg-nairobi/)    | Multinational                 | Nairobi               | 
+| [Graph Tech Mobile Applications Devs](https://graph.co.ke/)          |                               |                       |
+| [Hillgan Innovations](https://hillganinnovations.com/careers)        |                               | Muthithi Rd, Nairobi  |
+| [iDevelopers tech](https://idevelopertechnologies.co.ke/)            |                               |
+| [Kenyawebsite](https://kenyawebsite.com/)                            |                               |
+| [Kenic TLD](https://kenic.or.ke/)                                    | Public-private partnership    | Nairobi              |
+| [Microsoft Kenya](https://www.microsoft.com/en-us/contact_en-ke.aspx)| Multinational                 | Westlands, Nairobi  |
+| [Mentorlst](https://mentorlst.com/dashboard)                         |                               |
+| [Nairobi DevOps Org](https://nairobidevops.org/)                     |                              | Nairobi             |
+| [PaystrAfrica](https://paystarafrica.com/)                           |                              |
+| [Power Learn Project](https://powerlearnprojectafrica.org/)          |  Multinational               | Nairobi             |
+| [Techvannah](https://techvannah.com/)                                |                              |
+| [Tech2Give](https://teach2give.com/#)                                |                              |  Nyeri              |
+| [SoftwaresKe](https://www.softwareske.com/)                          |                              |
+| [Sawasawa Solutions](https://sawasawa.com/)                          |                              |
+| [Smartcode Technologies](https://www.smartcode.co.ke/)               |                              |
+| [Space Ya Tech](https://www.spaceyatech.com/)                        | Open-source community        |  East Africa        | 
+| [Synacor](https://www.synacor.co.ke/)                                |                              |
+| [The Jitu ](https://thejitu.com/)                                    |                              |  Nyeri              | 
+| [Webdivine website design](https://webdivine.co.ke/)                 |                              |
+| [Webmetro Website Designers](https://webmetro.co.ke/)                |                              |                     |
 
 
 
@@ -179,7 +181,7 @@ Kenya's focus on education and talent development has been crucial in building a
 | Company's Portfolio                                                              |  Company Type     | Location/County  |
 |----------------------------------------------------------------------------------|-------------------|------------------|
 | [EldoHub](https://eldohub.co.ke/)                                                |                   | Eldoret          |
-| [Chandaria Business Innovation & Incubation Centre](https://www.ku.ac.ke/iiuil/) |                   | Nairobi          |
+| [Chandaria Business Innovation & Incubation Centre KU](https://iiuil.ku.ac.ke/)  |                   | Nairobi          |
 | [CD4Lab](https://computerscience.uonbi.ac.ke/)                                   | Public            | Nairobi          |
 | [KICTANET](https://www.kictanet.or.ke/)                                          | GOV               | Kenya            |
 | [iHub](https://ihub.co.ke/)                                                      |                   | Nairobi          |
