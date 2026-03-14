@@ -10,17 +10,19 @@ Kenya's tech ecosystem has rapidly evolved, positioning itself as a hub for inno
 
 The Kenyan startup landscape is not just thriving in quantity but also in quality, with many startups achieving international recognition and investment. Sectors like agri-tech, health-tech, and ed-tech are emerging alongside the established fintech sector. The use of mobile money platforms like M-Pesa has revolutionized financial transactions in the country.
 
-**NOTE:** The list does not exhausted all Tech companies in Kenya & will be updated regularly.
+**NOTE:** The list does not exhausted all Tech companies in Kenya!.
 
 
--------
+
+&nbsp;
+
 
 
 ## Artificial Intelligence
 
 | Company's Portfolio                                                               | Company Type       | Location/County |
 |-----------------------------------------------------------------------------------|--------------------|-----------------|
-| [Computer Revolution Tech Group](https://www.cragroup.co.ke/)                     |                    
+| [Computer Revolution Tech Group](https://www.cragroup.co.ke/)                     |                    |              
 | [Everse technology africa](https://ke.linkedin.com/company/eversetechnology)      | AI startup         |
 | [Google Developer Groups](https://gdg.community.dev/gdg-nairobi/)                 | Multinational      | Nairobi         | 
 | [Kenya AI](https://kenya.ai/)                                                     |                    | Nairobi         | 
@@ -58,35 +60,35 @@ The Kenyan startup landscape is not just thriving in quantity but also in qualit
 | [Jammi Telecommunication](https://jtl.co.ke/)                        |
 | [KICTANet](https://www.kictanet.or.ke/)                              | Multi-stalkholder  | Nairobi         |
 | [Poa! Internet](https://poa.co.ke/)                                  | Private            | Nairobi
-| [Safaricom Business](https://www.safaricom.co.ke/)                  |                    | Country Wide    |
+| [Safaricom Business](https://www.safaricom.co.ke/)                   |                    | Country Wide    |
 | [Surfnet Solutions](https://surfnetsolution.com/)                    |
 | [Telcom Kenya](https://telkom.co.ke/)                                |
 | [ZUKU Internet](https://zuku.co.ke/triple-play/)                     | 
 | [VHost Limited](https://vhost.bz/)                                   |
-| [Cuteprofits](https://www.cuteprofit.com/)                        |
-| [Centiped ISP billing system](https://www.centipidbilling.com/)   |
+| [Cuteprofits](https://www.cuteprofit.com/)                           |
+| [Centiped ISP billing system](https://www.centipidbilling.com/)      |                    |                 |
 
 
 ## Cyber Security
 
 | Company's Portfolio                                                            | Company Type                   | Location/County     |
 |--------------------------------------------------------------------------------|-------------------------------|----------------------|
-| [AfricaHackOn](https://africahackon.com/)                                      | Multinational                 |  Nairobi            |
-| [Besides Nairobi](https://bsidesnairobi.ke/)                                   | Non-profit, community-driven  |                     |
-| [Certeon Technology](https://certeon.technology/)                              |                               | Westlands, Nairobi  |
-| [CIO Africa](https://cioafrica.co/)                                            | Multinational                 | Nairobi           |
-| [Crystal Tech](https://crystaltech.co.ke/)                                     |                               | Nairobi           |
-| [CTF Room Africa](https://www.ctfroom.com/)                                           |                        | Nairobi           |
-| [CyberGuard Africa](https://cyberguardafrica.com/)                             | Private                       | Nairobi           |
-| [East Africa Data Handlers](https://eadatahandlers.co.ke/)                     | Multinational                 |             |
-| [Fanan Limited ](https://fanansolutions.com/)                                  | Multinational                 | Nairobi
-| [Frepers PTaaS Cyber security](https://frepers.co.ke/)                         |                               |                    |
-| [HackerSploit](https://hackersploit.org/)                                      |                               | Nairobi            |
-| [Kenya Cyber Security and Forensics Association](https://www.kcsfa.co.ke/)     |                               | Rng Plaza, Nairobi |
-| [MacroSec](https://macrosec.tech/)                                             |                               | Runda, Nairobi     |
-| [Serianu](https://www.serianu.com/)                                            | Multinational                 | Nairobi          |
-| [South-End Tech  Limited])https://southendtech.co.ke/)                         |                               | Nairobi          |
-| [wHTa Networks](https://whtanetworks.com/)                                     |                               |
+| [AfricaHackOn](https://africahackon.com/)                                      | Multinational                 |  Nairobi             |
+| [Besides Nairobi](https://bsidesnairobi.ke/)                                   | Non-profit, community-driven  |                      |
+| [Certeon Technology](https://certeon.technology/)                              |                               | Westlands, Nairobi   |
+| [CIO Africa](https://cioafrica.co/)                                            | Multinational                 | Nairobi              |
+| [Crystal Tech](https://crystaltech.co.ke/)                                     |                               | Nairobi              |
+| [CTF Room Africa](https://www.ctfroom.com/)                                    |                               | Nairobi              |
+| [CyberGuard Africa](https://cyberguardafrica.com/)                             | Private                       | Nairobi              |
+| [East Africa Data Handlers](https://eadatahandlers.co.ke/)                     | Multinational                 |                      |
+| [Fanan Limited ](https://fanansolutions.com/)                                  | Multinational                 | Nairobi              |
+| [Frepers PTaaS Cyber security](https://frepers.co.ke/)                         |                               |                      |
+| [HackerSploit](https://hackersploit.org/)                                      |                               | Nairobi              |
+| [Kenya Cyber Security and Forensics Association](https://www.kcsfa.co.ke/)     |                               | Rng Plaza, Nairobi   |
+| [MacroSec](https://macrosec.tech/)                                             |                               | Runda, Nairobi       |
+| [Serianu](https://www.serianu.com/)                                            | Multinational                 | Nairobi              |
+| [South-End Tech  Limited])https://southendtech.co.ke/)                         |                               | Nairobi              |
+| [wHTa Networks](https://whtanetworks.com/)                                     |                               |                   |
 
 
 
@@ -97,10 +99,10 @@ The Kenyan startup landscape is not just thriving in quantity but also in qualit
 |---------------------------------------------------------------|--------------------|------------------|
 | [Creative Kigen](https://creativekigen.com/)                  |                    |                  |
 | [Crystal Tech](https://crystaltech.co.ke/)                    |                    | Nairobi          |
-| [brait Consulting](https://braitconsulting.com/)              |                    |
+| [brait Consulting](https://braitconsulting.com/)              |                    |                  |
 | [Brandboulevardstudios](https://brandboulevardstudios.com/)   |  Startup           |                  |
 | [Digicreative](https://digicreative.co.ke/)                   |                    |                  |
-| [Niko creative Kenya](https://www.nikocreative.co.ke/)        |                    |
+| [Niko creative Kenya](https://www.nikocreative.co.ke/)        |                    |                  |
 
 
 ### Multimedia and films
@@ -158,19 +160,19 @@ Kenya's focus on education and talent development has been crucial in building a
 | [Kenic TLD](https://kenic.or.ke/)                                    | Public-private partnership    | Nairobi              |
 | [Microsoft Kenya](https://www.microsoft.com/en-us/contact_en-ke.aspx)| Multinational                 | Westlands, Nairobi  |
 | [Mentorlst](https://mentorlst.com/dashboard)                         |                               |
-| [Nairobi DevOps Org](https://nairobidevops.org/)                     |                              | Nairobi             |
-| [PaystrAfrica](https://paystarafrica.com/)                           |                              |
-| [Power Learn Project](https://powerlearnprojectafrica.org/)          |  Multinational               | Nairobi             |
-| [Techvannah](https://techvannah.com/)                                |                              |
-| [Tech2Give](https://teach2give.com/#)                                |                              |  Nyeri              |
-| [SoftwaresKe](https://www.softwareske.com/)                          |                              |
-| [Sawasawa Solutions](https://sawasawa.com/)                          |                              |
-| [Smartcode Technologies](https://www.smartcode.co.ke/)               |                              |
-| [Space Ya Tech](https://www.spaceyatech.com/)                        | Open-source community        |  East Africa        | 
-| [Synacor](https://www.synacor.co.ke/)                                |                              |
-| [The Jitu ](https://thejitu.com/)                                    |                              |  Nyeri              | 
-| [Webdivine website design](https://webdivine.co.ke/)                 |                              |
-| [Webmetro Website Designers](https://webmetro.co.ke/)                |                              |                     |
+| [Nairobi DevOps Org](https://nairobidevops.org/)                     |                               | Nairobi             |
+| [PaystrAfrica](https://paystarafrica.com/)                           |                               |
+| [Power Learn Project](https://powerlearnprojectafrica.org/)          |  Multinational                | Nairobi             |
+| [Techvannah](https://techvannah.com/)                                |                               |
+| [Tech2Give](https://teach2give.com/#)                                |                               |  Nyeri              |
+| [SoftwaresKe](https://www.softwareske.com/)                          |                               |
+| [Sawasawa Solutions](https://sawasawa.com/)                          |                               |
+| [Smartcode Technologies](https://www.smartcode.co.ke/)               |                               |
+| [Space Ya Tech](https://www.spaceyatech.com/)                        | Open-source community         |  East Africa        | 
+| [Synacor](https://www.synacor.co.ke/)                                |                               |
+| [The Jitu ](https://thejitu.com/)                                    |                               |  Nyeri              | 
+| [Webdivine website design](https://webdivine.co.ke/)                 |                               |
+| [Webmetro Website Designers](https://webmetro.co.ke/)                |                               |                     |
 
 
 
@@ -215,6 +217,7 @@ The following is a list of Government initiated Tech projects in Kenya
 --------------------------------|------------------------------------------------------------------------------------------------------ |-----------|
 | [Ministry of ICT Kenya](https://www.ict.go.ke/) | The Ministry of Information, Communications and The Digital Economy (MICDE) in Kenya is responsible for formulating policies and laws regulating the ICT, telecommunications, and media sectors. | Nairobi |
 |[Communication Authority of Kenya](https://www.ca.go.ke/) | The Communications Authority of Kenya (CA) is the regulatory authority for the communications sector in Kenya.  | Nairobi |
+| [ICT Authority of Kenya](https://icta.go.ke/) | The Authority's broad mandate entails enforcing ICT standards in Government, establishing, developing and maintaining secure ICT infrastructure systems, supervision of electronic communications, as well as promoting digital literacy, capacity, innovation and enterprise. |
 | [Connected Africa Summit](https://connected.go.ke/) | The summit aims to underscore the relevance of the digital economy in driving economic growth and development. It will provide an opportunity for African leaders,investors and businesses to come together and harness the vast opportunities presented by the digital economy while addressing barriers and pressing issues affecting our economies. |
 | [Data Protection Commission](https://www.odpc.go.ke/) | The Data Protection Act came into effect in Kenya in November 2019. This ushered the country into a new data privacy dispensation that aimed at ensuring Kenyans were empowered with enforceable privacy rights over their personal information, while providing clear guidelines for private and public institutions to handle their users’ data with care.  |
 | [Kenya National Innovation Agency (KeNIA)](https://kenia.go.ke/) | KeNIA strengthens interrelationships between actors in order to promote innovation and enterprise development out of research and ideas. |
@@ -222,7 +225,7 @@ The following is a list of Government initiated Tech projects in Kenya
 | [NC4](https://nc4.go.ke/) | The National Computer and Cybercrimes Coordination Committee (NC4) is mandated to coordinate Cybersecurity matters in Kenya. |
 | [KonzaTechnopolis](https://konza.go.ke/) | The Government of Kenya established the Konza Technopolis Development Authority (KoTDA) as a special purpose entity to facilitate the development of Konza. (a sustainable, world-class technology hub) |        
 | [Smart Academy](https://www.smartacademy.go.ke/) |Smart Academy is the ICT Authority’s Excellent Training School specializing in ICT and ICT Leadership and Governance training. |
-
+| [ODPC _Kenya](https://www.odpc.go.ke/careers/) | Office of the Data Protection Commissioner (ODPC)  provides clear guidelines for private and public institutions to handle users’ data with care. |
 
 
 &nbsp;
