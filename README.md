@@ -244,7 +244,7 @@ These are programs that support early-stage companies with funding, mentorship, 
 
 In reality, a product's value is moot if it's not being utilized by its target audience.
 
-## 1. Leverage Statup & Investment programs
+## 1. Leverage Startup & Investment programs
 
 - [Ajira Digital](http://ajiradigital.go.ke/)
 - [Kenya Innovation Agency(KENIA)](https://kenia.go.ke/)
@@ -274,7 +274,7 @@ For announcements, job shares, local meetups, discussions and more
 - [Google Developer Groups](https://gdg.community.dev/gdg-nairobi/)
 - [African Ruby Community](https://rubycommunity.africa/)
 - [Angular Kenya](https://ng-kenya.com/)
-- [Thinka Innnovators Network](https://think.ke/)
+- [Thika Innnovators Network](https://think.ke/)
 - [Web3 Developer Clubs](https://web3clubs.xyz/)
 - [Tech Group Kenya - WhatsApp community](https://whatsapp.com/channel/0029VaRwYII5kg736rZHZj3m)
 - [Tech Kenya - WhatsApp community](https://whatsapp.com/channel/0029VapqMgLCxoArynmW0O3u)
@@ -310,7 +310,7 @@ For announcements, job shares, local meetups, discussions and more
 - [Leetcode](https://leetcode.com/)
 
 
-**Write about Tech Blogs**
+**Write Tech Blogs**
 
 - [Dev.to](https://dev.to/)
 - [Medium](https://medium.com)
